@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-
+![Profile views](https://komarev.com/ghpvc/?username=mfmezger&label=Profile%20views&color=0e75b6&style=flat)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfmezger&show_icons=true&theme=radical)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfmezger&layout=pie)](https://github.com/anuraghazra/github-readme-stats)-->
