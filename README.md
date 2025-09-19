@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 ![Profile views](https://komarev.com/ghpvc/?username=mfmezger&label=Profile%20views&color=0e75b6&style=flat)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfmezger&show_icons=true&theme=radical)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfmezger&layout=pie)](https://github.com/anuraghazra/github-readme-stats)-->
-[![GitHub Streak](https://streak-stats.demolab.com?user=mfmezger&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![mfmezger's Stats](https://github-readme-stats.vercel.app/api?username=mfmezger&theme=nord&show_icons=true&hide_border=true&count_private=true)
+
+
+![mfmezger's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mfmezger&theme=nord&hide_border=true)
